@@ -1,0 +1,55 @@
+0: Received args: E 9120 ./tables/E.txt
+1: Read dv_table file successfully
+2: dv_table: [Destination Node: A, Next Node: A, Distance: 10, Port: 9116; , Destination Node: D, Next Node: D, Distance: 7, Port: 9119; , Destination Node: F, Next Node: F, Distance: 2, Port: 9121; ]
+3: Start listening on port 9120
+4: Receive command for sending dv_table
+5: Send file size of : 342 bytes
+6: Send file size of : 342 bytes
+7: Send file size of : 342 bytes
+8: Receive new dv_table from A
+9: Updated dv_table: [Destination Node: A, Next Node: A, Distance: 10, Port: 9116; , Destination Node: D, Next Node: D, Distance: 7, Port: 9119; , Destination Node: F, Next Node: F, Distance: 2, Port: 9121; , Destination Node: B, Next Node: A, Distance: 13, Port: 9116; ]
+10: Receive new dv_table from F
+11: Updated dv_table: [Destination Node: A, Next Node: F, Distance: 6, Port: 9121; , Destination Node: D, Next Node: D, Distance: 7, Port: 9119; , Destination Node: F, Next Node: F, Distance: 2, Port: 9121; , Destination Node: B, Next Node: A, Distance: 13, Port: 9116; ]
+12: Receive new dv_table from D
+13: Updated dv_table: [Destination Node: A, Next Node: F, Distance: 6, Port: 9121; , Destination Node: D, Next Node: D, Distance: 7, Port: 9119; , Destination Node: F, Next Node: F, Distance: 2, Port: 9121; , Destination Node: B, Next Node: A, Distance: 13, Port: 9116; , Destination Node: C, Next Node: D, Distance: 9, Port: 9119; ]
+14: Receive command for sending dv_table
+15: Send file size of : 498 bytes
+16: Send file size of : 498 bytes
+17: Send file size of : 498 bytes
+18: Receive new dv_table from A
+19: Updated dv_table: [Destination Node: A, Next Node: F, Distance: 6, Port: 9121; , Destination Node: D, Next Node: D, Distance: 7, Port: 9119; , Destination Node: F, Next Node: F, Distance: 2, Port: 9121; , Destination Node: B, Next Node: A, Distance: 13, Port: 9116; , Destination Node: C, Next Node: D, Distance: 9, Port: 9119; ]
+20: Receive new dv_table from F
+21: Updated dv_table: [Destination Node: A, Next Node: F, Distance: 6, Port: 9121; , Destination Node: D, Next Node: D, Distance: 7, Port: 9119; , Destination Node: F, Next Node: F, Distance: 2, Port: 9121; , Destination Node: B, Next Node: F, Distance: 9, Port: 9121; , Destination Node: C, Next Node: D, Distance: 9, Port: 9119; ]
+22: Receive new dv_table from D
+23: Updated dv_table: [Destination Node: A, Next Node: F, Distance: 6, Port: 9121; , Destination Node: D, Next Node: D, Distance: 7, Port: 9119; , Destination Node: F, Next Node: F, Distance: 2, Port: 9121; , Destination Node: B, Next Node: F, Distance: 9, Port: 9121; , Destination Node: C, Next Node: D, Distance: 9, Port: 9119; ]
+24: Receive command for sending dv_table
+25: Send file size of : 497 bytes
+26: Send file size of : 497 bytes
+27: Send file size of : 497 bytes
+28: Receive new dv_table from A
+29: Updated dv_table: [Destination Node: A, Next Node: F, Distance: 6, Port: 9121; , Destination Node: D, Next Node: D, Distance: 7, Port: 9119; , Destination Node: F, Next Node: F, Distance: 2, Port: 9121; , Destination Node: B, Next Node: F, Distance: 9, Port: 9121; , Destination Node: C, Next Node: D, Distance: 9, Port: 9119; ]
+30: Receive new dv_table from F
+31: Updated dv_table: [Destination Node: A, Next Node: F, Distance: 6, Port: 9121; , Destination Node: D, Next Node: D, Distance: 7, Port: 9119; , Destination Node: F, Next Node: F, Distance: 2, Port: 9121; , Destination Node: B, Next Node: F, Distance: 9, Port: 9121; , Destination Node: C, Next Node: D, Distance: 9, Port: 9119; ]
+32: Receive new dv_table from D
+33: Updated dv_table: [Destination Node: A, Next Node: F, Distance: 6, Port: 9121; , Destination Node: D, Next Node: D, Distance: 7, Port: 9119; , Destination Node: F, Next Node: F, Distance: 2, Port: 9121; , Destination Node: B, Next Node: F, Distance: 9, Port: 9121; , Destination Node: C, Next Node: D, Distance: 9, Port: 9119; ]
+34: Receive command for sending dv_table
+35: Send file size of : 497 bytes
+36: Send file size of : 497 bytes
+37: Send file size of : 497 bytes
+38: Receive new dv_table from A
+39: Updated dv_table: [Destination Node: A, Next Node: F, Distance: 6, Port: 9121; , Destination Node: D, Next Node: D, Distance: 7, Port: 9119; , Destination Node: F, Next Node: F, Distance: 2, Port: 9121; , Destination Node: B, Next Node: F, Distance: 9, Port: 9121; , Destination Node: C, Next Node: D, Distance: 9, Port: 9119; ]
+40: Receive new dv_table from F
+41: Updated dv_table: [Destination Node: A, Next Node: F, Distance: 6, Port: 9121; , Destination Node: D, Next Node: D, Distance: 7, Port: 9119; , Destination Node: F, Next Node: F, Distance: 2, Port: 9121; , Destination Node: B, Next Node: F, Distance: 9, Port: 9121; , Destination Node: C, Next Node: D, Distance: 9, Port: 9119; ]
+42: Receive new dv_table from D
+43: Updated dv_table: [Destination Node: A, Next Node: F, Distance: 6, Port: 9121; , Destination Node: D, Next Node: D, Distance: 7, Port: 9119; , Destination Node: F, Next Node: F, Distance: 2, Port: 9121; , Destination Node: B, Next Node: F, Distance: 9, Port: 9121; , Destination Node: C, Next Node: D, Distance: 9, Port: 9119; ]
+44: Receive command for sending dv_table
+45: Send file size of : 497 bytes
+46: Send file size of : 497 bytes
+47: Send file size of : 497 bytes
+48: Receive new dv_table from A
+49: Updated dv_table: [Destination Node: A, Next Node: F, Distance: 6, Port: 9121; , Destination Node: D, Next Node: D, Distance: 7, Port: 9119; , Destination Node: F, Next Node: F, Distance: 2, Port: 9121; , Destination Node: B, Next Node: F, Distance: 9, Port: 9121; , Destination Node: C, Next Node: D, Distance: 9, Port: 9119; ]
+50: Receive new dv_table from F
+51: Updated dv_table: [Destination Node: A, Next Node: F, Distance: 6, Port: 9121; , Destination Node: D, Next Node: D, Distance: 7, Port: 9119; , Destination Node: F, Next Node: F, Distance: 2, Port: 9121; , Destination Node: B, Next Node: F, Distance: 9, Port: 9121; , Destination Node: C, Next Node: D, Distance: 9, Port: 9119; ]
+52: Receive new dv_table from D
+53: Updated dv_table: [Destination Node: A, Next Node: F, Distance: 6, Port: 9121; , Destination Node: D, Next Node: D, Distance: 7, Port: 9119; , Destination Node: F, Next Node: F, Distance: 2, Port: 9121; , Destination Node: B, Next Node: F, Distance: 9, Port: 9121; , Destination Node: C, Next Node: D, Distance: 9, Port: 9119; ]
+54: Receive exit command
